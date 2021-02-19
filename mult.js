@@ -1,0 +1,1 @@
+module.exports.mult = (a,b) => Number(Number(a).toFixed(2)) * Number(Number(b).toFixed(2));
